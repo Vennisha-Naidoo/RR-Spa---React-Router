@@ -7,7 +7,8 @@ function ProductsPage() {
     const PRODUCTS = [
         { id: 'p1', title: 'Product One' },
         { id: 'p2', title: 'Product Two' },
-        { id: 'p3', title: 'Product Three' }
+        { id: 'p3', title: 'Product Three' },
+        { id: 'p4', title: 'Product Four' },
     ]
 
     function navigateBackToHomePage() {
